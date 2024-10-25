@@ -1,21 +1,21 @@
 {
-  "name": "verademo-api",
+  "name": "veracode-xsite",
   "version": "1.0.0",
-  "description": "verademo-api",
+  "description": "veracode-xsite",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/verademo-app/verademo-api.git"
+    "url": "git+https://github.com/lfpiaggio/veracode-xsite.git"
   },
-  "author": "Julian Totzek-Hallhuber",
+  "author": "Filipe Albuquerque",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/verademo-app/verademo-api/issues"
+    "url": "https://github.com/lfpiaggio/veracode-xsite/issues"
   },
-  "homepage": "https://gitlab.com/verademo-app/verademo-api#readme",
+  "homepage": "https://github.com/lfpiaggio/veracode-xsite#readme",
   "devDependencies": {
     "@types/express": "^4.17.13",
     "@types/morgan": "^1.9.3",
